@@ -18,7 +18,18 @@ ColorCatcher is a lightweight game where the player is shown a target color name
 
 ## Demo / Screenshots
 
-Open `index.html` in your browser to play locally. If you'd like to include screenshots in the repo, add them to a `screenshots/` folder and reference them here.
+Open `index.html` in your browser to play locally.
+
+### Screenshots
+
+Below are screenshots from the project (dark and light themes). The image files should be placed in the project root as `img1.png` and `img2.png` so GitHub will display them correctly.
+
+<p align="center">
+  <img src="img1.png" alt="ColorCatcher - Dark theme" width="420" />
+  <img src="img2.png" alt="ColorCatcher - Light theme" width="420" />
+</p>
+
+If you prefer to store screenshots in a subfolder, move the files into `screenshots/` and update the `src` paths to `screenshots/img1.png` and `screenshots/img2.png`.
 
 ## How to run
 
